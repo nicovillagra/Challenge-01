@@ -69,4 +69,13 @@ body {
         color: white;
 
     }
-  
+   .foter {
+       margin-left: auto;
+   }
+   .nico {
+       margin-left: 750px;
+       font-family: sunday;
+        font-size: 20px;
+        padding: 5px;
+
+   }
